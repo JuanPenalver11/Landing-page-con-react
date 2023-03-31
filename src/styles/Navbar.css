@@ -1,0 +1,26 @@
+
+
+#brand{
+      margin-left:20px;
+
+}
+
+#navbarNavAltMarkup{
+
+    justify-content: end;
+    margin-right: 10px; 
+    
+
+}
+
+#navBar{
+    background-color:rgb(8, 8, 8);
+    height:50px
+  
+  
+}
+
+#brand, #home, #about, #services, #contact{
+    color:white
+}
+

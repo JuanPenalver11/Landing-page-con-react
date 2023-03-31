@@ -1,0 +1,22 @@
+#mainContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#imageCardFirst, #imageCardSecond, #imageCardThird, #imageCardForth{
+    height:300px;
+    width: 250px;
+    padding: 10px;
+    margin-left:20px;
+
+}
+
+
+
+
+#cardFirst, #cardSecond, #cardThird, #cardForth{
+    height: 750px;
+    width: 300px;
+   margin: 5px;
+}

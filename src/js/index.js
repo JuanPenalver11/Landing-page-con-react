@@ -3,8 +3,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 // include your styles into the webpack bundle
-import "../styles/index.css";
-
+import "../styles/Navbar.css";
+import "../styles/Jumbo.css";
+import "../styles/Card.css";
+import "../styles/Footpage.css";
 //import your own components
 import Home from "./component/home.jsx";
 
